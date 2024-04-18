@@ -30,9 +30,9 @@
 ├── model_cards ：
 ├── notebooks ：
 ├── pyproject.toml
-├── scripts
+├── scripts ：脚本
 ├── setup.py
-├── src
+├── src ：源码
 ├── templates
 ├── tests
 └── utils
